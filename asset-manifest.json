@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gilbert1997/reactMusicApp.git/static/css/main.df4a1fb5.css",
-    "main.js": "/gilbert1997/reactMusicApp.git/static/js/main.bcf0cd9b.js",
-    "static/js/787.33c069aa.chunk.js": "/gilbert1997/reactMusicApp.git/static/js/787.33c069aa.chunk.js",
-    "static/media/background_photo_desktop.jpg": "/gilbert1997/reactMusicApp.git/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
-    "index.html": "/gilbert1997/reactMusicApp.git/index.html",
-    "main.df4a1fb5.css.map": "/gilbert1997/reactMusicApp.git/static/css/main.df4a1fb5.css.map",
-    "main.bcf0cd9b.js.map": "/gilbert1997/reactMusicApp.git/static/js/main.bcf0cd9b.js.map",
-    "787.33c069aa.chunk.js.map": "/gilbert1997/reactMusicApp.git/static/js/787.33c069aa.chunk.js.map"
+    "main.css": "/reactMusicApp/static/css/main.5fdb560f.css",
+    "main.js": "/reactMusicApp/static/js/main.660ed352.js",
+    "static/js/787.33c069aa.chunk.js": "/reactMusicApp/static/js/787.33c069aa.chunk.js",
+    "static/media/background_photo_desktop.jpg": "/reactMusicApp/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/reactMusicApp/index.html",
+    "main.5fdb560f.css.map": "/reactMusicApp/static/css/main.5fdb560f.css.map",
+    "main.660ed352.js.map": "/reactMusicApp/static/js/main.660ed352.js.map",
+    "787.33c069aa.chunk.js.map": "/reactMusicApp/static/js/787.33c069aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df4a1fb5.css",
-    "static/js/main.bcf0cd9b.js"
+    "static/css/main.5fdb560f.css",
+    "static/js/main.660ed352.js"
   ]
 }
